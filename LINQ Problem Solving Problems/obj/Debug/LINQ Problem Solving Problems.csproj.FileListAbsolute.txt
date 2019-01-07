@@ -1,0 +1,7 @@
+C:\Users\DevWorkSpace\source\repos\LINQ Problem Solving Problems\LINQ Problem Solving Problems\bin\Debug\LINQ Problem Solving Problems.exe.config
+C:\Users\DevWorkSpace\source\repos\LINQ Problem Solving Problems\LINQ Problem Solving Problems\bin\Debug\LINQ Problem Solving Problems.exe
+C:\Users\DevWorkSpace\source\repos\LINQ Problem Solving Problems\LINQ Problem Solving Problems\bin\Debug\LINQ Problem Solving Problems.pdb
+C:\Users\DevWorkSpace\source\repos\LINQ Problem Solving Problems\LINQ Problem Solving Problems\obj\Debug\LINQ Problem Solving Problems.csprojAssemblyReference.cache
+C:\Users\DevWorkSpace\source\repos\LINQ Problem Solving Problems\LINQ Problem Solving Problems\obj\Debug\LINQ Problem Solving Problems.csproj.CoreCompileInputs.cache
+C:\Users\DevWorkSpace\source\repos\LINQ Problem Solving Problems\LINQ Problem Solving Problems\obj\Debug\LINQ Problem Solving Problems.exe
+C:\Users\DevWorkSpace\source\repos\LINQ Problem Solving Problems\LINQ Problem Solving Problems\obj\Debug\LINQ Problem Solving Problems.pdb
